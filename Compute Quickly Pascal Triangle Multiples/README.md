@@ -1,0 +1,1 @@
+Program quickly computing pascal triangle multiples
