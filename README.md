@@ -1,2 +1,2 @@
-# small-ds-projects
-Small ds projects of mine
+# Small DS Projects
+Check out especially NLP Exploration
